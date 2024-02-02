@@ -4,7 +4,7 @@ This repo has starter files for an application that accepts a book title and/or 
 
 | Preparing | Displaying |
 | --- | --- |
-| a   | b   |
+| ![Screenshot 2024-02-02 at 1 35 43 AM](https://github.com/IGME-330-01-2235/fe-02/assets/1882129/378b7cf6-7164-490d-9c95-685f72a54cf6) | ![Screenshot 2024-02-02 at 1 35 54 AM](https://github.com/IGME-330-01-2235/fe-02/assets/1882129/88b11abd-2422-4105-b1a9-ead867b3b8d7) |
 
 ## Recommended Steps
 
